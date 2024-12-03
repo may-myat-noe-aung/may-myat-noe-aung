@@ -1,16 +1,23 @@
-## Hi there 👋
+<h2> Hi, I’m May_Myatnoe_Aung</h2>
 
-<!--
-**may-myat-noe-aung/may-myat-noe-aung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=may-myat-noe-aung&color=orange)
 
-Here are some ideas to get you started:
+- 🌱  I’m currently learning React,Python.
+- 👯 I’m looking to collaborate on Web.
+- 📫 How to reach me maymyuptnoeaung@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+****
+
+<h3 >🤝🏻  Connect with Me</h3>
+<p>
+  <a href="mailto:maymyuptnoeaung@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/may-myupt-noe-aung-a43b1a2b7" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+</p>
+
+
+
